@@ -4,7 +4,7 @@
 
 👀 Me apasiona la tecnología y actualmente me encuentro inmerso en el mundo del desarrollo de software.
 
-🌱 Estoy aprendiendo,soy estudiante en el Instituto Tecnológico de las Américas.
+🌱 Estoy aprendiendo, soy estudiante en el Instituto Tecnológico de las Américas.
 
 💞️ Busco aprender y conocer más en este emocionante campo.
 
