@@ -2,7 +2,7 @@
 
 👋 ¡Hola! Soy @JoseMRT2004, de La Romana, República Dominicana 🇩🇴.
 
-👀 Me apasiona la tecnología y actualmente me encuentro inmerso en el mundo del desarrollo de software.
+👀 Me apasiona la tecnología y actualmente me encuentro inmerso en el mundo del desarrollo de software y la Cibereguridad.
 
 🌱 Estoy aprendiendo, soy estudiante en el Instituto Tecnológico de las Américas.
 
