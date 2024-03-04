@@ -7,7 +7,7 @@
 <ul>
     <li><a href="https://m.facebook.com/profile.php/?id=100016002793167" target="_blank"><i class="fa fa-facebook"></i>🌐 Jøse M. Reyes</a></li>
     <li><a href="https://www.instagram.com/jose_040_/?next=%2F" target="_blank"><i class="fa fa-instagram"></i>📸 jose_040_</a></li>
-    <li><a href="https://twitter.com/Mr_taveras" target="_blank"><i class="fa fa-twitter"></>🐦 Mr_taveras</a></li>
+    <li><a href="https://twitter.com/Mr_taverasmrt" target="_blank"><i class="fa fa-twitter"></>🐦 Mr_taveras</a></li>
 </ul>
 
 <div>
