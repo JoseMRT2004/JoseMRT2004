@@ -5,10 +5,11 @@
 <hr>
 
 <ul>
-    <li><a href="https://m.facebook.com/profile.php/?id=100016002793167" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
-    <li><a href="https://www.instagram.com/jose_040_/?next=%2F" target="_blank"><i class="fa fa-instagram"></i>jose_040_</a></li>
-    <li><a href="https://twitter.com/Mr_taveras" target="_blank"><i class="fa fa-twitter"></i> Mr_taveras</a></li>
+    <li><a href="https://m.facebook.com/profile.php/?id=100016002793167" target="_blank"><i class="fa fa-facebook"></i>🌐 Jøse M. Reyes</a></li>
+    <li><a href="https://www.instagram.com/jose_040_/?next=%2F" target="_blank"><i class="fa fa-instagram"></i>📸 jose_040_</a></li>
+    <li><a href="https://twitter.com/Mr_taveras" target="_blank"><i class="fa fa-twitter"></>🐦 Mr_taveras</a></li>
 </ul>
+
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40">
