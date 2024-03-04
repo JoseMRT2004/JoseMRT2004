@@ -1,12 +1,8 @@
 
 
-👋 ¡Hola! Soy @JoseMRT2004, de La Romana, República Dominicana.
+Biografía resumida para GitHub:
 
-👀 Me apasiona la tecnología y la ciencia actualmente me encuentro inmerso en el mundo del desarrollo de software y la Cibereguridad.
-
-🌱 Estoy aprendiendo, soy estudiante de desarrollo de software en el Instituto Tecnológico de las Américas.
-
-💞️ Busco aprender y conocer más en este emocionante campo.
+👋 Soy José M. Taveras, @JoseMRT2004, un apasionado estudiante de desarrollo de software de La Romana, República Dominicana. 🌴💻 En constante aprendizaje en el Instituto Tecnológico de las Américas. 📚 Practico tenis y baloncesto, disfruto la lectura y la ciencia. 🍽️ Amante de los tostones y los mariscos dominicanos. ¡Listo para explorar el mundo tecnológico! 🚀🔒
 
 📫 Puedes contactarme:
    - 💻 jose M. Reyes
