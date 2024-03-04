@@ -10,3 +10,10 @@
   <li>🐦 @Mr_taverasmrt</li>
 </ul>
 
+<div style="display: flex;">
+  <img src="^7^" alt="git" width="50" height="50">
+  <img src="^1^" alt="GitHub" width="50" height="50">
+  <img src="^12^" alt="JS" width="50" height="50">
+  <img src="^16^" alt="Js.js" width="50" height="50">
+  <img src="^4^" alt="C++" width="50" height="50">
+</div>
