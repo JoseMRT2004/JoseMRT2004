@@ -11,9 +11,9 @@
 </ul>
 
 <div style="display: flex;">
-  <img src="^7^" alt="git" width="50" height="50">
-  <img src="^1^" alt="GitHub" width="50" height="50">
-  <img src="^12^" alt="JS" width="50" height="50">
-  <img src="^16^" alt="Js.js" width="50" height="50">
-  <img src="^4^" alt="C++" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="50" height="50">
+  <img src="https://en.m.wikipedia.org/wiki/Node.js#/media/File%3ANode.js_logo.svg" alt="Node.js" width="50" height="50">
+  <img src="https://es.m.wikipedia.org/wiki/JavaScript#/media/Archivo%3AUnofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="50" height="50">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/6/6132/6132222.svg?token=exp=1619622528~hmac=0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f" alt="C++" width="50" height="50">
 </div>
