@@ -15,5 +15,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" alt="JavaScript" height="40">
   <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="40" height="40">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/6/6132/6132222.svg?token=exp=1619622528~hmac=0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f0f" alt="C++" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++" width="40" height="40">
 </div>
