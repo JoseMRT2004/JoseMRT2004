@@ -3,6 +3,13 @@
 <hr>
 <h1>👋 Soy, José M. Taveras</h1>@JoseMRT2004,un apasionado estudiante de desarrollo de software de La Romana, República Dominicana. 🌴💻 En constante aprendizaje en el Instituto Tecnológico de las Américas. 📚 Practico tenis y baloncesto, disfruto la lectura y la ciencia. 🍽️ Amante de los tostones y los mariscos preparados con el sazon Dominicano.¡Listo para explorar el mundo tecnológico! 🚀🔒
 <hr>
+
+- _Excelente capacidad de comunicación verbal._
+- _Habilidad para trabajar de forma colaborativa en equipos multidisciplinarios._
+- _Adaptabilidad y disposición para aprender nuevas tecnologías y conceptos._
+- _Gestión del Tiempo y Priorización._
+- _Fuerte ética de trabajo ._
+  
 <!--
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40">
