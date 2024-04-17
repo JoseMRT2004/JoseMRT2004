@@ -4,7 +4,7 @@
 
 # **Other Skills:**
 
-- _Excellent verbal communication skills._
+- _Excellent verbal communication skills in spanish._
 - _Ability to work collaboratively in multidisciplinary teams._
 - _Adaptability and willingness to learn new technologies and concepts._
 - _Time management and prioritization._
