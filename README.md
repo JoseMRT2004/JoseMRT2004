@@ -1,15 +1,14 @@
+**👋 I'm José M. Taveras**
+@JoseMRT2004, a passionate software development student from La Romana, Dominican Republic. 🌴💻 Continuously learning at the Instituto Tecnológico de las Américas. 📚 I play tennis and basketball, enjoy reading, and love science. 🍽️ I'm a fan of "tostones" and seafood prepared with Dominican seasoning. Ready to explore the technological world! 🚀🔒
 
+# **Other Skills:**
 
-<hr>
-<h1>👋 Soy, José M. Taveras</h1>@JoseMRT2004,un apasionado estudiante de desarrollo de software de La Romana, República Dominicana. 🌴💻 En constante aprendizaje en el Instituto Tecnológico de las Américas. 📚 Practico tenis y baloncesto, disfruto la lectura y la ciencia. 🍽️ Amante de los tostones y los mariscos preparados con el sazon Dominicano.¡Listo para explorar el mundo tecnológico! 🚀🔒
+- _Excellent verbal communication skills._
+- _Ability to work collaboratively in multidisciplinary teams._
+- _Adaptability and willingness to learn new technologies and concepts._
+- _Time management and prioritization._
+- _Strong work ethic._
 
-#  **Otras habilidades:**
-- _Excelente capacidad de comunicación verbal._
-- _Habilidad para trabajar de forma colaborativa en equipos multidisciplinarios._
-- _Adaptabilidad y disposición para aprender nuevas tecnologías y conceptos._
-- _Gestión del Tiempo y Priorización._
-- _Fuerte ética de trabajo ._
-  
 <!--
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40">
