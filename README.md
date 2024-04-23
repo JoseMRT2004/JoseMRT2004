@@ -9,7 +9,11 @@
 - _Adaptability and willingness to learn new technologies and concepts._
 - _Time management and prioritization._
 - _Strong work ethic._
+  
+## *Open to: Collaboration, Research Internships, Technology Discussions*
 
+- _Research Internships: Interested in gaining experience through research internships._
+- _Technology Discussions: Willing to engage in conversations about any type of technology._
 <!--
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="40" height="40">
