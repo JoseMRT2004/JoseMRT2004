@@ -6,7 +6,7 @@
 @JoseMRT2004, a passionate software development student from La Romana, Dominican Republic. 🌴💻 Continuously learning at the Instituto Tecnológico de las Américas. 📚 I play tennis and basketball, enjoy reading, and love science. 🍽️ I'm a fan of "tostones" and seafood prepared with Dominican seasoning. Ready to explore the technological world! 🚀🔒
 <p>
 
-## **Other Skills:**
+## Other Skills:
 
 <p>
 
@@ -18,7 +18,7 @@
 
 <p>
 
-## _Open to: Collaboration, Research Internships, Technology Discussions_
+### _Open to: Collaboration, Research Internships, Technology Discussions_
 
 - _Research Internships: Interested in gaining experience through research internships._
 - _Technology Discussions: Willing to engage in conversations about any type of technology._
