@@ -7,8 +7,8 @@
 <p>
 
 ## Other Skills:
-
 <p>
+
 
 - _Excellent verbal communication skills in spanish._
 - _Ability to work collaboratively in multidisciplinary teams._
@@ -29,3 +29,9 @@
 </div>
 
 <link href="index.css" rel="stylesheet" type="text/css" />
+
+https://github.com/JoseMRT2004/JoseMRT2004/assets/152670237/39f6e42c-de96-4978-b19d-af40cc7f9d63
+
+
+
+
