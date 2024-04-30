@@ -25,11 +25,6 @@
     <li><em>Technology Discussions: Dispuesto a participar en conversaciones sobre cualquier tipo de tecnología.</em></li>
 </ul>
 
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="90" height="90">
-    <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="90" height="90">
-</div>
-
 <link href="index.css" rel="stylesheet" type="text/css" />
 <br>
 <em><strong>to be continued.........</strong></em>
