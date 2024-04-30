@@ -1,10 +1,5 @@
-<div class="contenedor">
-			<h1>👋 I'm José M. Taveras<span>&#160;</span></h1>
-		</div>
-
-<P>
+# 👋 I'm José M. Taveras
 @JoseMRT2004, a passionate software development student from La Romana, Dominican Republic. 🌴💻 Continuously learning at the Instituto Tecnológico de las Américas. 📚 I play tennis and basketball, enjoy reading, and love science. 🍽️ I'm a fan of "tostones" and seafood prepared with Dominican seasoning. Ready to explore the technological world! 🚀🔒
-<p>
 
 ## Other Skills:
 
