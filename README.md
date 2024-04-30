@@ -3,7 +3,6 @@
 
 ## Other Skills:
 
-<p>
 
 - _Excellent verbal communication skills in spanish._
 - _Ability to work collaboratively in multidisciplinary teams._
@@ -11,16 +10,15 @@
 - _Time management and prioritization._
 - _Strong work ethic._
 
-<p>
 
 ### _Open to: Collaboration, Research Internships, Technology Discussions_
 
 - _Research Internships: Interested in gaining experience through research internships._
 - _Technology Discussions: Willing to engage in conversations about any type of technology._
 
+## versioning tools
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="90" height="90">
   <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="90" height="90">
 </div>
 
-<link href="index.css" rel="stylesheet" type="text/css" />
