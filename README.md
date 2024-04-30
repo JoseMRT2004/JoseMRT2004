@@ -1,36 +1,35 @@
 <div class="contenedor">
-			<h1>👋 I'm José M. Taveras<span>&#160;</span></h1>
-		</div>
-
-<P>
-@JoseMRT2004, a passionate software development student from La Romana, Dominican Republic. 🌴💻 Continuously learning at the Instituto Tecnológico de las Américas. 📚 I play tennis and basketball, enjoy reading, and love science. 🍽️ I'm a fan of "tostones" and seafood prepared with Dominican seasoning. Ready to explore the technological world! 🚀🔒
-<p>
-
-## Other Skills:
-<p>
-
-
-- _Excellent verbal communication skills in spanish._
-- _Ability to work collaboratively in multidisciplinary teams._
-- _Adaptability and willingness to learn new technologies and concepts._
-- _Time management and prioritization._
-- _Strong work ethic._
+    <h1>👋 I'm José M. Taveras<span>&#160;</span></h1>
+</div>
 
 <p>
+    @JoseMRT2004, un apasionado estudiante de desarrollo de software de La Romana, República Dominicana. 🌴💻 Aprendiendo continuamente en el Instituto Tecnológico de las Américas. 📚 Juego tenis y baloncesto, disfruto leyendo y amo la ciencia. 🍽️ Soy fanático de los "tostones" y los mariscos preparados con sazón dominicana. ¡Listo para explorar el mundo tecnológico! 🚀🔒
+</p>
 
-### _Open to: Collaboration, Research Internships, Technology Discussions_
+<h2>Other Skills:</h2>
 
-- _Research Internships: Interested in gaining experience through research internships._
-- _Technology Discussions: Willing to engage in conversations about any type of technology._
+<ul>
+    <li><em>Excelentes habilidades de comunicación verbal en español.</em></li>
+    <li><em>Capacidad para trabajar colaborativamente en equipos multidisciplinarios.</em></li>
+    <li><em>Adaptabilidad y disposición para aprender nuevas tecnologías y conceptos.</em></li>
+    <li><em>Gestión del tiempo y priorización.</em></li>
+    <li><em>Sólida ética de trabajo.</em></li>
+</ul>
+
+<p>
+    <strong>Open to:</strong> Collaboration, Research Internships, Technology Discussions
+</p>
+
+<ul>
+    <li><em>Research Internships: Interesado en obtener experiencia a través de pasantías de investigación.</em></li>
+    <li><em>Technology Discussions: Dispuesto a participar en conversaciones sobre cualquier tipo de tecnología.</em></li>
+</ul>
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="90" height="90">
-  <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="90" height="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="90" height="90">
+    <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="90" height="90">
 </div>
 
 <link href="index.css" rel="stylesheet" type="text/css" />
 
-https://github.com/JoseMRT2004/JoseMRT2004/assets/152670237/39f6e42c-de96-4978-b19d-af40cc7f9d63
-
-_**to be continued.........**_
-
+<em><strong>to be continued.........</strong></em>
