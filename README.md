@@ -19,5 +19,8 @@
 - _Research Internships: Interested in gaining experience through research internships._
 - _Technology Discussions: Willing to engage in conversations about any type of technology._
 
+<details>
+<summary><h2>Tools</h2></summary>
+   
  [![My Skills](https://skillicons.dev/icons?i=github,git,bash)](https://skillicons.dev)
-
+ 
