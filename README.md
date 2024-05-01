@@ -16,7 +16,6 @@
 - _Research Internships: Interested in gaining experience through research internships._
 - _Technology Discussions: Willing to engage in conversations about any type of technology._
 
-## versioning tools
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png" alt="GitHub" width="90" height="90">
   <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" alt="git" width="90" height="90">
