@@ -1,9 +1,10 @@
-
+<!---
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/JoseMRT2004/JoseMRT2004/assets/152670237/e394c40f-b781-4bed-8e1e-e330de361f92" />
-   <h1 align="center">🥷 I'm José M. Taveras </h1>
 </p>
+--->
 
+# 🥷 I'm José M. Taveras 
 @JoseMRT2004, a passionate software development student from La Romana, Dominican Republic. 🌴💻 Continuously learning at the Instituto Tecnológico de las Américas. 📚 I play tennis and basketball, enjoy reading, and love science. 🍽️ I'm a fan of "tostones" and seafood prepared with Dominican seasoning. Ready to explore the technological world! 🚀🔒
 
 ## Other Skills:
@@ -21,6 +22,17 @@
 
 <details>
 <summary><h2>Tools</h2></summary>
-   
+  
  [![My Skills](https://skillicons.dev/icons?i=github,git,bash)](https://skillicons.dev)
- 
+
+</details>
+
+---
+
+<details>
+<summary>Preview </summary>
+[JoseMRT2004](https://github.com/JoseMRT2004/)
+
+Last Edited on: 1/05/2024
+
+</details>
