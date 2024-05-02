@@ -25,14 +25,4 @@
   
  [![My Skills](https://skillicons.dev/icons?i=github,git,bash)](https://skillicons.dev)
 
-</details>
 
----
-
-<details>
-<summary>Preview </summary>
-[JoseMRT2004](https://github.com/JoseMRT2004/)
-
-Last Edited on: 1/05/2024
-
-</details>
