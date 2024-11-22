@@ -17,5 +17,5 @@
 <details>  
 <summary><h2>Tools</h2></summary>
   
- [![My Skills](https://skillicons.dev/icons?i=bash,linux)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev) 
 </details>
