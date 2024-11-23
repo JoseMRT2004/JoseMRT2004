@@ -13,9 +13,12 @@
 
 - _Research Internships: Eager to gain experience through research internships._
 - _Technology Discussions: Open to engaging in conversations about various technologies._
-
+  
 <details>  
-<summary><h2>Tools</h2></summary>
+ <summary><h2>Tools</h2></summary>
   
  [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev) 
 </details>
+
+> [!IMPORTANT]  
+> Connect with me for more information through my [LinkedIn](https://www.linkedin.com/in/jose-m-taveras-49b0172b1/)
