@@ -4,6 +4,7 @@
 ## Other Skills:
 
 - _Excellent verbal communication skills in Spanish._
+- _Intermediate level of English with conversational._
 - _Collaborative team player with adaptability across diverse fields._
 - _Strong commitment to learning new technologies and concepts._
 - _Effective time management and prioritization._
