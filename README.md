@@ -3,20 +3,34 @@
 
 ## Other Skills:
 
-- _Excellent verbal communication skills in Spanish._
-- _Intermediate level of English with conversational._
-- _Collaborative team player with adaptability across diverse fields._
-- _Strong commitment to learning new technologies and concepts._
-- _Effective time management and prioritization._
-- _Highly motivated with a strong work ethic._
+```Python
+SoftSkills = {
+    'Languages': {
+        'Spanish': 'Excellent verbal communication skills',
+        'English': 'Intermediate (Conversational)'
+    },
+    'Collaboration & Adaptability': [
+        'Collaborative team player',
+        'Adaptability across diverse fields'
+    ,
+    'Learning & Motivation': [
+        'Strong commitment to learning new technologies and concepts',
+        'Highly motivated with a strong work ethic'
+  ],
+    'Time Management & Prioritization': [
+        'Effective time management',
+        'Prioritization skills'
+  ]
+}
+```
+> [!NOTE]
+> ### _Open to: Collaboration, Research Internships, Technology Discussions, Contributing to Open Source Projects_
+> - **Research Internships**: Eager to gain experience through research internships.
+> - **Technology Discussions**: Open to engaging in conversations about various technologies.
+> - **Contributing to Open Source Projects**: Available to collaborate and contribute to open source projects aimed at enhancing the tech community.
 
-### _Open to: Collaboration, Research Internships, Technology Discussions_
-
-- _Research Internships: Eager to gain experience through research internships._
-- _Technology Discussions: Open to engaging in conversations about various technologies._
-  
 <details>  
- <summary><h2>Tools</h2></summary>
+ <summary><h2>Tools & Technologies</h2></summary>
   
  [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev) 
 </details>
