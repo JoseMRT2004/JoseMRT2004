@@ -4,7 +4,7 @@
 ## Other Skills:
 
 ```Python
-SoftSkills = {
+Soft_Skills = {
     'Languages': {
         'Spanish': 'Excellent verbal communication skills',
         'English': 'Intermediate (Conversational)'
