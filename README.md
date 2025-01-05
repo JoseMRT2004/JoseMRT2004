@@ -34,7 +34,7 @@ Soft_Skills = {
 <details>  
  <summary><h2>Tools & Technologies</h2></summary>
   
- [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github,python)](https://skillicons.dev) 
 </details>
 
 > [!IMPORTANT]  
