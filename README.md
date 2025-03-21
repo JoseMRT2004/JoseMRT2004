@@ -13,7 +13,7 @@
 <details>  
  <summary><h2>Tools & Technologies</h2></summary>
   
- [![My Skills](https://skillicons.dev/icons?i=bash,linux,git,github)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev) 
 </details>
 
 > [!IMPORTANT]  
