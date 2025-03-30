@@ -1,5 +1,5 @@
 # 👋 I'm José M. Taveras
----
+
  <div align="left"> <img src="https://profile-counter.glitch.me/JoseMRT2004/count.svg?" /> </div>
   
 @JoseMRT2004, a tech enthusiast from Dominican Republic. Actively pursuing new knowledge and practical skills in technology. Linux enthusiast, excited to explore and contribute to the tech world.
