@@ -1,4 +1,4 @@
-# 👋 I'm José M. Taveras
+## 👋 I'm José M. Taveras
 
  <div align="left"> <img src="https://profile-counter.glitch.me/JoseMRT2004/count.svg?" /> </div>
   
