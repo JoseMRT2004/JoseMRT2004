@@ -1,5 +1,5 @@
 # 👋 I'm José M. Taveras  
-@JoseMRT2004, a passionate tech enthusiast from La Romana, Dominican Republic. 🌴💻 Actively pursuing new knowledge and practical skills in technology. 📚 I play tennis and basketball, enjoy reading, and am fascinated by science. 🍤🍽️ Big fan of "tostones" and seafood with Dominican seasoning. Linux enthusiast, excited to explore and contribute to the tech world! 🚀🔒  
+@JoseMRT2004, a passionate tech enthusiast from La Romana, Dominican Republic. 🌴💻 Actively pursuing new knowledge and practical skills in technology. 📚 I play tennis and basketball, enjoy reading, and am fascinated by science. 🍤🍽️ Linux enthusiast, excited to explore and contribute to the tech world! 🚀🔒  
 
 ## Other Skills:
 
