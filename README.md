@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/avatar.webp" alt="José M. Taveras" width="160" style="border-radius: 50%;" />
+  <img src="assets/avatar.png" alt="José M. Taveras" width="160" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">Hi, I'm José M. Taveras</h2>
