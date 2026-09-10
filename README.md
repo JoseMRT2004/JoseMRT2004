@@ -15,13 +15,6 @@
   <a href="mailto:josemtaverasreyes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> -->
 
-## About Me
-
-<img align="right" src="assets/sic-team-photo.webp" alt="Samsung Innovation Campus team" width="300" />
-
-I'm pursuing a career as a **software developer** with a growing interest in **DevOps** — learning how to bridge development and operations to build reliable products. I completed the Samsung Innovation Campus (SIC) program in AI and Python, where my team’s project *Via Libre RD* was presented at the UNESCO‑backed Summit on AI Ethics (LATAM & Caribbean). I also enjoy sharing knowledge and collaborating with tech communities.
-
-
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
