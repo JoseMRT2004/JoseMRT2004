@@ -2,7 +2,7 @@
   <img src="assets/avatar.png" alt="José M. Taveras" width="160"/>
 </p>
 
-<h2 align="center">Hi, I'm José M. Taveras</h2>
+<h2 align="center">José M. Taveras</h2>
 
 <p align="center">
   <b>Software Development · DevOps · Linux</b>
